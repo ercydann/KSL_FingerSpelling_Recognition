@@ -1,7 +1,6 @@
 # KSL-FINGERSPELLING-RECOGNITION
 ![ksl image](https://github.com/JamesMbeti/KSL-FINGERSPELLING-RECOGNITION/blob/main/fingerspell.jpeg)
 
-##### Contributors: [James Mbeti](https://github.com/JamesMbeti) , [Taylor Musa](https://github.com/ojutaylor), [Brian Kisilu](https://github.com/Bkitainge), [Sharon Kimani](https://github.com/Sharonkimani), [Nelson Odhiambo](https://github.com/mandelaGit), [Vivian Adhiambo](https://github.com/vivianOpondo)
 
 ## Table of contents 
 - [Business Understanding](#business-understanding)
